@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1086059163466",
+    "firebase_url": "https://chatlab-19e73.firebaseio.com",
+    "project_id": "chatlab-19e73",
+    "storage_bucket": "chatlab-19e73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086059163466:android:62ba9171c718f529",
+        "android_client_info": {
+          "package_name": "edu.temple.chatlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086059163466-5e06fpurt8d5mqsudjloj4gpg55cje7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.temple.chatlab",
+            "certificate_hash": "7f7f1883619a13f0c4d2bcfe07029f1946d9ab89"
+          }
+        },
+        {
+          "client_id": "1086059163466-27l0659uijgij8t1fjfp90n89h2slot3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4YUHGy_k-e4QY8Ht8iObQIodb77EWMUo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086059163466-27l0659uijgij8t1fjfp90n89h2slot3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
